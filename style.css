@@ -1,0 +1,70 @@
+#mypage1 .mydiv {
+}
+p {
+		font-size: 18px;
+
+}
+header {
+	text-align: center;
+
+}
+input {
+	border: 50px;
+
+}
+a{
+	font-size:35px;
+	color: black;
+}
+
+h1 {
+	text-align: center;
+	font-size: 45px;
+	font-color: gold;
+	border-style: solid;
+	border-color: black;
+		}
+
+	img {
+	background-position: center;
+	height: 250px;
+	width: 200px;
+	margin: 40px 0px 0xp 0px;
+
+}
+
+body {
+	font-family: helvetica;
+	margin:0 auto;
+	max-width: 600px;
+	text-align: center;
+	background: url("treenyc.jpg");
+	background-size: cover;
+	background-blend-mode: lighten;
+	background-position: center;
+	background-color: green;
+
+}
+	#page2 .myDiv {
+	background-color: peach;
+	font-size: 16px;
+	background-blend-mode: lighten;
+	border-style: dotted;
+}
+
+p {
+	font-family: helvetica;
+	text-align: center;
+	font-size: 18px;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 15px;
+	text-align: center;
+	text-align: bottom;
+	border-spacing: 5px;
+	margin: 40px 0px 0xp 0px;
+	height: 250px;
+}
