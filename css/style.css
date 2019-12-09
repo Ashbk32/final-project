@@ -1,0 +1,138 @@
+
+p {
+		font-size: 18px;
+
+}
+
+head {
+	height: 400px;
+	width: 350px;
+
+}
+
+p {
+	font-family: helvetica;
+	text-align: center;
+	font-size: 18px;
+}
+
+
+header {
+	text-align: center;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 20px 10px;
+	border: dotted;
+}
+
+}
+
+input {
+	border: 50px;
+
+}
+
+a {
+	font-size:35px;
+	color: black;
+}
+
+h1 {
+	text-align: center;
+	font-size: 45px;
+	font-color: gold;
+	border-style: solid;
+	border-color: black;
+		}
+
+img {
+	 height: 300px;
+	 width: 450px;
+	 background-blend-mode: lighten;
+	 border-style: solid;
+
+	}
+
+body {
+	font-family: helvetica;
+	margin:0 auto;
+	max-width: 600px;
+	text-align: center;
+	background-image: url("/images/treenyc.jpg");
+	image-resolution: from-image;
+	background-size: cover;
+	background-blend-mode: lighten;
+	background-position: center;
+	background-color: green;
+
+}
+
+Post Slider */
+ .post-slider {
+  border: 1px solid black;
+}
+
+.post-slider .post-wrapper {
+	width: 84%;
+	height: 350px;
+	margin: 0px auto;
+	border: 1px dashed red;
+}
+
+.post-slider .post-wrapper .post {
+	height: 350px;
+	width: 300px;
+	display: inline-block;
+	background-color: white;
+}
+
+
+chickpeastyle */
+
+.greeting {
+	text-align: center;
+	height: 300px;
+	width: 300px;
+	font-size: 20px;
+	color: white;
+  padding: 10px;
+}
+
+.chickpearecipes {
+	text-align: left;
+	font-size: 16px;
+
+}
+
+.chick {
+	height: 300px;
+	font-size: 12px;
+
+}
+
+p {
+	font-size: 17px;
+	font-style: italic;
+}
+
+li{
+	font-style: oblique;
+}
+
+
+about me */
+
+ img {
+height: 100px;
+
+}
+
+p {
+		font-size: 15px;
+		font-style: oblique;
+}
+
+a {
+		text-align: center;
+		font-size: 15px;
+}
